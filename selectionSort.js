@@ -1,4 +1,4 @@
-const livros = require('./listalivros.js');
+const livros = require('./listaLivros.js');
 const menorValor = require('./menorValor.js');
 
 // O -1 é pq não é preciso verificar o ultimo livro com ele mesmo
